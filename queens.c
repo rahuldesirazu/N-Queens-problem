@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-
 int update_seen(int rows[], int d1[], int d2[], int col_number, int board_size, int j); 
 int queens(int rows[], int d1[], int d2[], int col_number, int board_size);
 
