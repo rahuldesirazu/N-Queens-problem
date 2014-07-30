@@ -1,4 +1,4 @@
-all: queens_fast.c 
+all: queens.c 
 	gcc -o queens queens.c
 	./queens
     
